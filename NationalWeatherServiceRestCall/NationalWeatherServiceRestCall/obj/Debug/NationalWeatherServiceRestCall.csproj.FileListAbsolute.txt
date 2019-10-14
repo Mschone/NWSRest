@@ -1,0 +1,7 @@
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\obj\Debug\NationalWeatherServiceRestCall.csprojAssemblyReference.cache
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\obj\Debug\NationalWeatherServiceRestCall.csproj.CoreCompileInputs.cache
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\bin\Debug\NationalWeatherServiceRestCall.exe.config
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\bin\Debug\NationalWeatherServiceRestCall.exe
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\bin\Debug\NationalWeatherServiceRestCall.pdb
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\obj\Debug\NationalWeatherServiceRestCall.exe
+C:\Users\OG\source\repos\NationalWeatherServiceRestCall\NationalWeatherServiceRestCall\obj\Debug\NationalWeatherServiceRestCall.pdb
